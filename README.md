@@ -1,2 +1,1 @@
-# CypherRAT
-CypherRAT V3.5
+# CypherRAT version 3.5
